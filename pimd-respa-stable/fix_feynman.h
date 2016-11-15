@@ -1,16 +1,3 @@
-/* ----------------------------------------------------------------------
-   
-   Package      FixFeynman
-   Purpose      Feynman Path Integral Algorithm for Quantum Chemistry
-   Copyright    Voth Group @ University of Chicago
-   Authors      Chris Knight & Yuxing Peng
-   
-   Updated      Oct-01-2011
-   Version      1.0
-   
-------------------------------------------------------------------------- */
-
-
 #ifdef FIX_CLASS
 
   FixStyle(feynman,FixFeynman)
